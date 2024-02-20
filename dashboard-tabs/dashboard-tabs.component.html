@@ -1,0 +1,11 @@
+<a (click)="goBack()" class="backlink" style="cursor: pointer;"><i class="fa fa-chevron-circle-left"></i> {{facilityName}}</a>
+<div class="pageinnertab">
+    <ul>
+        <li><a (click)="goToRoute(1)" [routerLink]="[]" [ngClass]="{'active' : tabType == 1}">Alerts + Notifications</a>
+        </li>
+        <li><a (click)="goToRoute(2)" [routerLink]="[]" [ngClass]="{'active' : tabType == 2}">Short Term Schedule</a></li>
+        <li><a (click)="goToRoute(3)" [routerLink]="[]" [ngClass]="{'active' : tabType == 3}">Long Term Schedule</a></li>
+        <li><a (click)="goToRoute(4)" [routerLink]="[]" [ngClass]="{'active' : tabType == 4}">Facility Information</a>
+        </li>
+    </ul>
+</div>
