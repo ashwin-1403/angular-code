@@ -71,4 +71,25 @@ Rware revolutionizes the takeout food industry by introducing an eco-friendly ap
 ## Conclusion
 Rware project offers a sustainable option for enjoying takeout food, providing reusable containers and a convenient mobile app experience. By leveraging technologies like Angular and REST APIs, we ensure a seamless user experience while promoting environmental sustainability. With Rware, users can enjoy their favorite takeout meals guilt-free, knowing they're making a positive impact on the environment.
 
+# Project 4 : WaterFront Concerts
 
+## Overview
+WaterFront Concerts is an event management project comprising front-facing user websites and an admin panel for managing events, sponsors, venues, and more.
+
+## Solution Overview
+WaterFront Concerts provides a comprehensive solution for managing events and related information. With its user-friendly websites and admin panel, the project streamlines the process of organizing and coordinating concerts and other events. Users can easily browse upcoming events, purchase tickets, and explore event details, while administrators have access to tools for managing event listings, sponsors, venues, and more.
+
+## Technical Description
+### Technologies Used:
+- **Angular:** Utilized for building the frontend user websites, providing a robust framework for creating dynamic and interactive interfaces.
+- **Node:** Employed as the backend server to handle requests and interact with the database.
+- **MongoDB:** Utilized as the database system to store and manage event-related data.
+- **Typescript:** Used to write code in a more structured and maintainable way, enhancing the development process.
+- **ES-6:** Employed modern JavaScript features for enhanced development.
+- **HTML5:** Used for structuring the web application's content, ensuring compatibility with modern browsers.
+- **CSS3:** Employed for styling the user interfaces and enhancing visual appeal.
+- **JSON:** Utilized for data interchange between the client and server.
+- **REST API’s:** Implemented to facilitate communication between the frontend applications and backend server.
+
+## Conclusion
+WaterFront Concerts project offers a comprehensive solution for event management, catering to both users and administrators. By leveraging technologies like Angular, Node, and MongoDB, the project provides a seamless user experience and efficient management tools. WaterFront Concerts aims to enhance the event organization process, making it easier for users to discover and attend concerts while providing administrators with the tools they need to manage events effectively.
